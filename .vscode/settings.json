@@ -1,0 +1,22 @@
+{
+    "deepcode.review.results.hideInformationIssues": false,
+    "cSpell.ignoreWords": [
+        "bootcamp",
+        "bootcamps",
+        "dsphere",
+        "fileupload",
+        "forgotpassword",
+        "gmail",
+        "maxlength",
+        "mimetype",
+        "minlength",
+        "port",
+        "slugify",
+        "smtp",
+        "steph",
+        "virtuals",
+        "zipcode"
+    ],
+    "deepscan.enable": true,
+    "deepcode.uploadApproved": true
+}
