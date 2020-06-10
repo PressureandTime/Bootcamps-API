@@ -1,7 +1,7 @@
 # Bootcamps API
 
 > Backend API for BootCamps API, which is directory website
-- **Postman Documentation how to use this backend api -> [Documentation](https://documenter.getpostman.com/view/8923145/SVtVVTzd?version=latest#c57fec5a-5f65-4758-bbe5-f05ad2005c34)**
+- **Postman Documentation how to use this backend api(click on the link) -> [Documentation](https://documenter.getpostman.com/view/8923145/SVtVVTzd?version=latest#c57fec5a-5f65-4758-bbe5-f05ad2005c34)**
 
 ## Usage
 
